@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 -Repo
 ![TurpialCode GitHub stats](https://github-readme-stats.vercel.app/api?username=PFT-Repo&show_icons=true)
+![TrupialCode GitHub stats](https://github-readme-stats.vercel.app/api?username=PFT-Repo&show_icons=true&theme=transparent)
