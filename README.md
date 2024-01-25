@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Angular** to be able to teach.
 
-- 👨‍💻 All of my projects are available at [https://turpialcode.com](https://turpialcode.com).
-
 - 📫 How to reach me **turpialcode@gmail.com**.
 
 ![TrupialCode GitHub stats](https://github-readme-stats.vercel.app/api?username=PFT-Repo&show_icons=true&theme=transparent)
