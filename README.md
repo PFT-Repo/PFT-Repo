@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PFT-Repo&label=Profile%20views&color=00aaff&style=flat" alt="turpialCode" /> </p>
 
-- 🔭 I’m currently working on [me] (private repository).
+- 🔭 I’m currently working on [PixelHub](https://pixelhub.com.es) (private repository).
 
 - 🌱 I’m currently learning **Angular** to be able to teach.
 
